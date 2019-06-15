@@ -1,0 +1,81 @@
+[submodule "src/github.com/acroca/go-symbols"]
+	path = src/github.com/acroca/go-symbols
+	url = https://github.com/acroca/go-symbols
+[submodule "src/github.com/derekparker/delve"]
+	path = src/github.com/derekparker/delve
+	url = https://github.com/derekparker/delve
+[submodule "src/github.com/golang/lint"]
+	path = src/github.com/golang/lint
+	url = https://github.com/golang/lint
+[submodule "src/github.com/karrick/godirwalk"]
+	path = src/github.com/karrick/godirwalk
+	url = https://github.com/karrick/godirwalk
+[submodule "src/github.com/lukehoban/go-find-references"]
+	path = src/github.com/lukehoban/go-find-references
+	url = https://github.com/lukehoban/go-find-references
+[submodule "src/github.com/lukehoban/go-outline"]
+	path = src/github.com/lukehoban/go-outline
+	url = https://github.com/lukehoban/go-outline
+[submodule "src/github.com/lukehoban/ident"]
+	path = src/github.com/lukehoban/ident
+	url = https://github.com/lukehoban/ident
+[submodule "src/github.com/mattn/go-runewidth"]
+	path = src/github.com/mattn/go-runewidth
+	url = https://github.com/mattn/go-runewidth
+[submodule "src/github.com/mdempsky/gocode"]
+	path = src/github.com/mdempsky/gocode
+	url = https://github.com/mdempsky/gocode
+[submodule "src/github.com/newhook/go-symbols"]
+	path = src/github.com/newhook/go-symbols
+	url = https://github.com/newhook/go-symbols
+[submodule "src/github.com/nsf/gocode"]
+	path = src/github.com/nsf/gocode
+	url = https://github.com/nsf/gocode
+[submodule "src/github.com/peterh/liner"]
+	path = src/github.com/peterh/liner
+	url = https://github.com/peterh/liner
+[submodule "src/github.com/pkg/errors"]
+	path = src/github.com/pkg/errors
+	url = https://github.com/pkg/errors
+[submodule "src/github.com/ramya-rao-a/go-outline"]
+	path = src/github.com/ramya-rao-a/go-outline
+	url = https://github.com/ramya-rao-a/go-outline
+[submodule "src/github.com/rogpeppe/godef"]
+	path = src/github.com/rogpeppe/godef
+	url = https://github.com/rogpeppe/godef
+[submodule "src/github.com/sqs/goreturns"]
+	path = src/github.com/sqs/goreturns
+	url = https://github.com/sqs/goreturns
+[submodule "src/github.com/tpng/gopkgs"]
+	path = src/github.com/tpng/gopkgs
+	url = https://github.com/tpng/gopkgs
+[submodule "src/github.com/uudashr/gopkgs"]
+	path = src/github.com/uudashr/gopkgs
+	url = https://github.com/uudashr/gopkgs
+[submodule "src/golang.org/x/crypto"]
+	path = src/golang.org/x/crypto
+	url = https://github.com/golang/crypto.git
+[submodule "src/golang.org/x/image"]
+	path = src/golang.org/x/image
+	url = https://github.com/golang/image.git
+[submodule "src/golang.org/x/lint"]
+	path = src/golang.org/x/lint
+	url = https://github.com/golang/lint.git
+[submodule "src/golang.org/x/net"]
+	path = src/golang.org/x/net
+	url = https://github.com/golang/net.git
+[submodule "src/golang.org/x/sys"]
+	path = src/golang.org/x/sys
+	url = https://github.com/golang/sys.git
+[submodule "src/golang.org/x/time"]
+	path = src/golang.org/x/time
+	url = https://github.com/golang/time.git
+[submodule "src/sourcegraph.com/sqs/goreturns"]
+	path = src/sourcegraph.com/sqs/goreturns
+	url = https://github.com/sqs/goreturns
+[submodule "src/golang.org/x/text"]
+	path = src/golang.org/x/text
+	url = https://github.com/golang/text.git
+[submodule "src/golang.org/x/tools"]
+	path = src/golang.org/x/tools
+	url = https://github.com/golang/tools.git
